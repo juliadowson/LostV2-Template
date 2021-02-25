@@ -154,6 +154,63 @@
   <ItemGroup>
     <None Include="Resources\fiona.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skull.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skull_.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skulll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\goodSkull.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shrek.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\203105__tambascot__dragon-roar.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\329349__cafeface__a7p2-trumpet.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\146434__copyc4t__dundundunnn.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\416529__inspectorj__bird-whistling-single-robin-a.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\400328__tabook__squeaky-door-close.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16933__acclivity__donkey.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\365159__jack-freedom5712__sword-fight.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cabin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\creek.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tunnel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\240801__ryanconway__pickaxe-mining-stone.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\[ONTIVA.COM]-Dreamworks Intro HD [1080p]-HQ.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\496423__ddmyzik__relax-intro.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\439538__ethanchase7744__epic-sword-clang-2.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

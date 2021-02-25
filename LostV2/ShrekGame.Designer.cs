@@ -62,7 +62,7 @@
             this.redLabel.ForeColor = System.Drawing.Color.White;
             this.redLabel.Location = new System.Drawing.Point(90, 385);
             this.redLabel.Name = "redLabel";
-            this.redLabel.Size = new System.Drawing.Size(343, 28);
+            this.redLabel.Size = new System.Drawing.Size(289, 28);
             this.redLabel.TabIndex = 3;
             this.redLabel.Text = "Yes";
             // 
@@ -72,7 +72,7 @@
             this.blueLabel.ForeColor = System.Drawing.Color.White;
             this.blueLabel.Location = new System.Drawing.Point(90, 430);
             this.blueLabel.Name = "blueLabel";
-            this.blueLabel.Size = new System.Drawing.Size(343, 28);
+            this.blueLabel.Size = new System.Drawing.Size(270, 28);
             this.blueLabel.TabIndex = 4;
             this.blueLabel.Text = "No";
             // 
@@ -80,13 +80,14 @@
             // 
             this.yellowLabel.Font = new System.Drawing.Font("Courier New", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.yellowLabel.ForeColor = System.Drawing.Color.White;
-            this.yellowLabel.Location = new System.Drawing.Point(90, 467);
+            this.yellowLabel.Location = new System.Drawing.Point(90, 483);
             this.yellowLabel.Name = "yellowLabel";
-            this.yellowLabel.Size = new System.Drawing.Size(167, 24);
+            this.yellowLabel.Size = new System.Drawing.Size(217, 24);
             this.yellowLabel.TabIndex = 6;
             // 
             // pictureBox
             // 
+            this.pictureBox.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox.BackgroundImage = global::LostV2.Properties.Resources.farfaraway;
             this.pictureBox.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox.Location = new System.Drawing.Point(18, 158);
